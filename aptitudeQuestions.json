@@ -1,0 +1,344 @@
+[
+  {
+    "q": "If 5x - 10 = 20, what is x?",
+    "options": ["4", "6", "8", "10"],
+    "answer": "6"
+  },
+  {
+    "q": "If a train travels 60 km in 1 hour, how far will it go in 3 hours?",
+    "options": ["120 km", "150 km", "180 km", "200 km"],
+    "answer": "180 km"
+  },
+  {
+    "q": "What is 25% of 200?",
+    "options": ["50", "40", "60", "45"],
+    "answer": "50"
+  },
+  {
+    "q": "Which is the next number in the series: 2, 4, 8, 16, ?",
+    "options": ["20", "24", "30", "32"],
+    "answer": "32"
+  },
+  {
+    "q": "If 3 apples cost $6, how much do 5 apples cost?",
+    "options": ["$8", "$9", "$10", "$12"],
+    "answer": "$10"
+  },
+  {
+    "q": "What is the average of 10, 20 and 30?",
+    "options": ["15", "20", "25", "30"],
+    "answer": "20"
+  },
+  {
+    "q": "If a = 3 and b = 4, what is (a^2 + b^2)?",
+    "options": ["25", "24", "20", "30"],
+    "answer": "25"
+  },
+  {
+    "q": "The ratio of 3 : 4 = ?",
+    "options": ["0.75", "0.67", "1.33", "1.25"],
+    "answer": "0.75"
+  },
+  {
+    "q": "If 7x = 49, what is x?",
+    "options": ["5", "6", "7", "8"],
+    "answer": "7"
+  },
+  {
+    "q": "Find the LCM of 4 and 6.",
+    "options": ["12", "10", "14", "8"],
+    "answer": "12"
+  },
+  {
+    "q": "If Ram is 3 times older than Sam, and Sam is 5, what is Ram’s age?",
+    "options": ["10", "15", "20", "25"],
+    "answer": "15"
+  },
+  {
+    "q": "What is 12 × 7?",
+    "options": ["72", "70", "84", "96"],
+    "answer": "84"
+  },
+  {
+    "q": "A shopkeeper buys for $120 and sells for $150. What is the profit percentage?",
+    "options": ["20%", "25%", "30%", "15%"],
+    "answer": "25%"
+  },
+  {
+    "q": "Simplify: 50 - 12 × 3",
+    "options": ["14", "16", "18", "20"],
+    "answer": "14"
+  },
+  {
+    "q": "What is 7 squared?",
+    "options": ["49", "42", "56", "36"],
+    "answer": "49"
+  },
+  {
+    "q": "If 100 ÷ x = 25, what is x?",
+    "options": ["2", "3", "4", "5"],
+    "answer": "4"
+  },
+  {
+    "q": "Find the next number: 5, 10, 15, 20, ?",
+    "options": ["25", "22", "23", "24"],
+    "answer": "25"
+  },
+  {
+    "q": "Which is a prime number?",
+    "options": ["15", "17", "21", "27"],
+    "answer": "17"
+  },
+  {
+    "q": "The sum of 8 and 12 is:",
+    "options": ["18", "20", "22", "24"],
+    "answer": "20"
+  },
+  {
+    "q": "If a car goes at 60 km/h for 2 hours, how far does it travel?",
+    "options": ["100 km", "120 km", "140 km", "160 km"],
+    "answer": "120 km"
+  },
+  {
+    "q": "Which fraction is the largest?",
+    "options": ["1/2", "2/3", "3/4", "5/8"],
+    "answer": "3/4"
+  },
+  {
+    "q": "If 6 × 8 = 48, then 48 ÷ 6 = ?",
+    "options": ["6", "7", "8", "9"],
+    "answer": "8"
+  },
+  {
+    "q": "The perimeter of a square with side 5 is:",
+    "options": ["25", "20", "30", "15"],
+    "answer": "20"
+  },
+  {
+    "q": "What is 45% of 200?",
+    "options": ["80", "90", "85", "100"],
+    "answer": "90"
+  },
+  {
+    "q": "There are 60 students. If 25% are absent, how many are present?",
+    "options": ["45", "50", "55", "40"],
+    "answer": "45"
+  },
+  {
+    "q": "Find the value of 3^3.",
+    "options": ["6", "9", "27", "30"],
+    "answer": "27"
+  },
+  {
+    "q": "If the ratio 5:2 = x:14, what is x?",
+    "options": ["35", "28", "32", "30"],
+    "answer": "35"
+  },
+  {
+    "q": "Simplify: 9 + 15 × 2",
+    "options": ["39", "29", "30", "45"],
+    "answer": "39"
+  },
+  {
+    "q": "If 3a = 18, what is a?",
+    "options": ["5", "6", "7", "8"],
+    "answer": "6"
+  },
+  {
+    "q": "Find the median of: 4, 8, 15, 16, 23.",
+    "options": ["8", "15", "12", "16"],
+    "answer": "15"
+  },
+  {
+    "q": "A product sold for $80 with a 20% discount. What was the original price?",
+    "options": ["90", "100", "110", "120"],
+    "answer": "100"
+  },
+  {
+    "q": "If a worker completes 1/4 of work in 2 days, how many days for full work?",
+    "options": ["6", "7", "8", "9"],
+    "answer": "8"
+  },
+  {
+    "q": "The area of a rectangle with length 8 and breadth 5 is:",
+    "options": ["30", "40", "45", "50"],
+    "answer": "40"
+  },
+  {
+    "q": "If 90 ÷ 3 = 30, then 30 × 2 = ?",
+    "options": ["40", "50", "60", "70"],
+    "answer": "60"
+  },
+  {
+    "q": "Find the next number: 1, 4, 9, 16, ?",
+    "options": ["20", "25", "30", "36"],
+    "answer": "25"
+  },
+  {
+    "q": "What is 18 × 4?",
+    "options": ["62", "72", "82", "92"],
+    "answer": "72"
+  },
+  {
+    "q": "The difference between 100 and 85 is:",
+    "options": ["10", "15", "20", "25"],
+    "answer": "15"
+  },
+  {
+    "q": "If 8 × 7 = 56, then 56 ÷ 8 = ?",
+    "options": ["6", "7", "8", "9"],
+    "answer": "7"
+  },
+  {
+    "q": "Find the HCF of 12 and 18.",
+    "options": ["6", "3", "2", "9"],
+    "answer": "6"
+  },
+  {
+    "q": "If 4x = 24, what is x?",
+    "options": ["4", "5", "6", "7"],
+    "answer": "6"
+  },
+  {
+    "q": "The price of a pen is increased from $5 to $6. What is the percentage increase?",
+    "options": ["15%", "18%", "20%", "25%"],
+    "answer": "20%"
+  },
+  {
+    "q": "What is 16 ÷ 2 + 3 × 4?",
+    "options": ["16", "14", "18", "20"],
+    "answer": "16"
+  },
+  {
+    "q": "If 7 books cost $35, how much does 1 book cost?",
+    "options": ["5", "6", "4", "7"],
+    "answer": "5"
+  },
+  {
+    "q": "Which is the smallest prime number?",
+    "options": ["1", "2", "3", "5"],
+    "answer": "2"
+  },
+  {
+    "q": "If 15 + 45 = x, then x = ?",
+    "options": ["50", "60", "70", "80"],
+    "answer": "60"
+  },
+ 
+
+  {
+    "q": "What is the perimeter of a triangle with sides 3, 4, and 5?",
+    "options": ["10", "12", "15", "14"],
+    "answer": "12"
+  },
+  {
+    "q": "If 8x + 4 = 36, what is x?",
+    "options": ["3", "4", "5", "6"],
+    "answer": "4"
+  },
+  {
+    "q": "Find the simple interest on $1000 for 2 years at 5% per annum.",
+    "options": ["90", "100", "110", "120"],
+    "answer": "100"
+  },
+  {
+    "q": "Which of these is a composite number?",
+    "options": ["2", "3", "4", "5"],
+    "answer": "4"
+  },
+  {
+    "q": "If a car travels 150 km in 3 hours, its speed is:",
+    "options": ["45 km/h", "50 km/h", "55 km/h", "60 km/h"],
+    "answer": "50 km/h"
+  },
+  {
+    "q": "What is the value of 6^2?",
+    "options": ["12", "24", "36", "48"],
+    "answer": "36"
+  },
+  {
+    "q": "The difference between 50 and 15 is:",
+    "options": ["30", "35", "40", "45"],
+    "answer": "35"
+  },
+  {
+    "q": "If 9x = 81, what is x?",
+    "options": ["7", "8", "9", "10"],
+    "answer": "9"
+  },
+  {
+    "q": "What is 14 × 3?",
+    "options": ["32", "36", "42", "48"],
+    "answer": "42"
+  },
+  {
+    "q": "Find the average of 7, 14, and 21.",
+    "options": ["10", "12", "14", "16"],
+    "answer": "14"
+  },
+  {
+    "q": "If a : b = 2 : 3 and b : c = 4 : 5, what is a : c?",
+    "options": ["8 : 15", "10 : 15", "8 : 10", "10 : 12"],
+    "answer": "8 : 15"
+  },
+  {
+    "q": "In a class of 40 students, if 10 are absent, what percentage is present?",
+    "options": ["75%", "80%", "85%", "90%"],
+    "answer": "75%"
+  },
+  {
+    "q": "What is 11 × 11?",
+    "options": ["110", "121", "132", "143"],
+    "answer": "121"
+  },
+  {
+    "q": "If an object costs $80 after a 20% discount, what was the original price?",
+    "options": ["90", "95", "100", "105"],
+    "answer": "100"
+  },
+  {
+    "q": "What is 13 × 5?",
+    "options": ["55", "60", "65", "70"],
+    "answer": "65"
+  },
+  {
+    "q": "Which is an even number?",
+    "options": ["11", "22", "33", "44"],
+    "answer": "22"
+  },
+  {
+    "q": "If a worker completes 1/5 of a task in 1 day, how many days will he take to complete the whole task?",
+    "options": ["4", "5", "6", "7"],
+    "answer": "5"
+  },
+  {
+    "q": "Find the HCF of 8 and 12.",
+    "options": ["2", "4", "6", "8"],
+    "answer": "4"
+  },
+  {
+    "q": "The area of a square with side 4 is:",
+    "options": ["12", "16", "20", "24"],
+    "answer": "16"
+  },
+  {
+    "q": "If 7 + 3 × 2 = x, what is x?",
+    "options": ["13", "10", "17", "11"],
+    "answer": "13"
+  },
+  {
+    "q": "What is the value of 8^2?",
+    "options": ["16", "32", "64", "48"],
+    "answer": "64"
+  },
+  {
+    "q": "How many minutes are there in 3 hours?",
+    "options": ["120", "150", "180", "200"],
+    "answer": "180"
+  },
+  {
+    "q": "If 10x = 100, what is x?",
+    "options": ["5", "8", "10", "12"],
+    "answer": "10"
+  }
+]
